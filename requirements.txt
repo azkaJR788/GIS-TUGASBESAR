@@ -1,0 +1,7 @@
+pandas
+geopandas
+matplotlib
+requests
+urllib3
+fiona
+pyproj
